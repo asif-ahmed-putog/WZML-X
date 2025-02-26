@@ -36,6 +36,7 @@ python-dotenv
 python-magic
 qbittorrent-api
 requests
+setuptools>=61
 speedtest-cli
 telegraph
 tenacity
